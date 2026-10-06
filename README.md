@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 98 | 98 |
-| Medium | 88 | 88 |
+| Medium | 89 | 88 |
 | Hard | 3 | 3 |
-| **Total** | **189** | **189** |
+| **Total** | **190** | **189** |
 
-189 problem(s), 189 solution file(s) in this repository.
+190 problem(s), 190 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-06.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 171 |
+| Python | 172 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -131,7 +131,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (88)</summary>
+<details><summary><b>Medium</b> (89)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -194,6 +194,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Python | [folder](Medium/0779-k-th-symbol-in-grammar/) |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Python | [folder](Medium/0856-score-of-parentheses/) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Python | [folder](Medium/0875-koko-eating-bananas/) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Python | [folder](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python | [folder](Medium/1288-remove-covered-intervals/) |

@@ -106,7 +106,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (58)
+## String (59)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -139,6 +139,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
 - #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
@@ -300,7 +301,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Greedy (20)
+## Greedy (21)
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
 - #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
@@ -311,6 +312,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #435 [Non-overlapping Intervals](Medium/0435-non-overlapping-intervals/) - Medium
 - #561 [Array Partition](Easy/0561-array-partition/) - Easy
 - #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1833 [Maximum Ice Cream Bars](Medium/1833-maximum-ice-cream-bars/) - Medium
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
@@ -406,7 +408,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 
-## Stack (14)
+## Stack (15)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -418,6 +420,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
@@ -492,6 +495,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 
+## Bracket Sequences (6)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
+- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Divide and Conquer (6)
 
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
@@ -509,14 +521,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
-
-## Bracket Sequences (5)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
-- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
-- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Counting Sort (5)
 

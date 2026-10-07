@@ -8,7 +8,7 @@
 
 | Language | File | Runtime | Memory |
 |----------|------|---------|--------|
-| Python | [solution.py](solution.py) | 0 ms | 12.3 MB |
+| Python | [solution.py](solution.py) | 1 ms | 12.3 MB |
 
 ## Topics
 

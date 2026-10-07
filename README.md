@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 99 | 99 |
-| Medium | 89 | 89 |
+| Medium | 90 | 89 |
 | Hard | 3 | 3 |
-| **Total** | **191** | **191** |
+| **Total** | **192** | **191** |
 
-191 problem(s), 191 solution file(s) in this repository.
+192 problem(s), 192 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-07.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 173 |
+| Python | 174 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -132,7 +132,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (89)</summary>
+<details><summary><b>Medium</b> (90)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -143,6 +143,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Python | [folder](Medium/0008-string-to-integer-atoi/) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Python | [folder](Medium/0011-container-with-most-water/) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Python | [folder](Medium/0012-integer-to-roman/) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Python | [folder](Medium/0019-remove-nth-node-from-end-of-list/) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C | [folder](Medium/0033-search-in-rotated-sorted-array/) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Python | [folder](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Python | [folder](Medium/0039-combination-sum/) |

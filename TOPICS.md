@@ -325,10 +325,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3074 [Apple Redistribution into Boxes](Easy/3074-apple-redistribution-into-boxes/) - Easy
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
 
-## Two Pointers (19)
+## Two Pointers (20)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
 - #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
@@ -523,6 +524,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
+## Linked List (6)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+
 ## Counting Sort (5)
 
 - #274 [H-Index](Medium/0274-h-index/) - Medium
@@ -538,14 +548,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
-
-## Linked List (5)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
 ## Backtracking (4)
 

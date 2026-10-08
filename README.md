@@ -7,12 +7,12 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 99 | 99 |
-| Medium | 90 | 89 |
+| Medium | 90 | 90 |
 | Hard | 3 | 3 |
-| **Total** | **192** | **191** |
+| **Total** | **192** | **192** |
 
 192 problem(s), 192 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-07.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-08).
 
 ## Languages
 

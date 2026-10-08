@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 99 | 99 |
+| Easy | 100 | 100 |
 | Medium | 90 | 90 |
 | Hard | 3 | 3 |
-| **Total** | **192** | **192** |
+| **Total** | **193** | **193** |
 
-192 problem(s), 192 solution file(s) in this repository.
+193 problem(s), 193 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-08).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 174 |
+| Python | 175 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (99)</summary>
+<details><summary><b>Easy</b> (100)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -75,6 +75,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Python | [folder](Easy/0796-rotate-string/) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Python | [folder](Easy/0836-rectangle-overlap/) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Python | [folder](Easy/0977-squares-of-a-sorted-array/) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Python | [folder](Easy/1021-remove-outermost-parentheses/) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Python | [folder](Easy/1025-divisor-game/) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Python | [folder](Easy/1047-remove-all-adjacent-duplicates-in-string/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | [folder](Easy/1051-height-checker/) |

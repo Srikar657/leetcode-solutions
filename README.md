@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 100 | 100 |
-| Medium | 90 | 90 |
+| Medium | 91 | 91 |
 | Hard | 3 | 3 |
-| **Total** | **193** | **193** |
+| **Total** | **194** | **194** |
 
-193 problem(s), 193 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-08).
+194 problem(s), 194 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-09).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 175 |
+| Python | 176 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -133,7 +133,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (90)</summary>
+<details><summary><b>Medium</b> (91)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -205,6 +205,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Python | [folder](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Python | [folder](Medium/1658-minimum-operations-to-reduce-x-to-zero/) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Python | [folder](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Python | [folder](Medium/1833-maximum-ice-cream-bars/) |

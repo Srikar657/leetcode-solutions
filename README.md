@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 100 | 100 |
+| Easy | 101 | 101 |
 | Medium | 91 | 91 |
 | Hard | 3 | 3 |
-| **Total** | **194** | **194** |
+| **Total** | **195** | **195** |
 
-194 problem(s), 194 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-09).
+195 problem(s), 195 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-11).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 176 |
+| Python | 177 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (100)</summary>
+<details><summary><b>Easy</b> (101)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -107,6 +107,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | Python | [folder](Easy/2404-most-frequent-even-element/) |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | C | [folder](Easy/2485-find-the-pivot-integer/) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Python | [folder](Easy/2574-left-and-right-sum-differences/) |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Python | [folder](Easy/2778-sum-of-squares-of-special-elements/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Python | [folder](Easy/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |

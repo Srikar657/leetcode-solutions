@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (101)
+## Array (102)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -91,6 +91,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
+- #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -522,6 +523,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Enumeration (6)
+
+- #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
+- #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
+- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
+- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
+- #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
+- #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
+
 ## Heap (Priority Queue) (6)
 
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
@@ -547,14 +557,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1833 [Maximum Ice Cream Bars](Medium/1833-maximum-ice-cream-bars/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
-
-## Enumeration (5)
-
-- #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
-- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
-- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
-- #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
-- #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 
 ## Backtracking (4)
 

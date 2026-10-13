@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (102)
+## Array (103)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -102,6 +102,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3550 [Smallest Index With Digit Sum Equal to Index](Easy/3550-smallest-index-with-digit-sum-equal-to-index/) - Easy
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
+- #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
@@ -220,7 +221,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Sorting (40)
+## Sorting (41)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -261,6 +262,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
+- #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
 ## Hash Table (38)
@@ -304,7 +306,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Greedy (22)
+## Greedy (23)
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
 - #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
@@ -328,6 +330,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3074 [Apple Redistribution into Boxes](Easy/3074-apple-redistribution-into-boxes/) - Easy
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
+- #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
 ## Two Pointers (20)
 

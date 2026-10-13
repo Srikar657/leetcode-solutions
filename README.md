@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 101 | 101 |
-| Medium | 91 | 91 |
+| Medium | 92 | 92 |
 | Hard | 3 | 3 |
-| **Total** | **195** | **195** |
+| **Total** | **196** | **196** |
 
-195 problem(s), 195 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-11).
+196 problem(s), 196 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-13).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 177 |
+| Python | 178 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -134,7 +134,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (91)</summary>
+<details><summary><b>Medium</b> (92)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -226,6 +226,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python | [folder](Medium/3517-smallest-palindromic-rearrangement-i/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python | [folder](Medium/3612-process-string-with-special-operations-i/) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Python | [folder](Medium/3727-maximum-alternating-sum-of-squares/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | C | [folder](Medium/3751-total-waviness-of-numbers-in-range-i/) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Python | [folder](Medium/3871-count-commas-in-range-ii/) |

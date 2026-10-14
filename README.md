@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 101 | 101 |
-| Medium | 92 | 92 |
+| Medium | 93 | 93 |
 | Hard | 3 | 3 |
-| **Total** | **196** | **196** |
+| **Total** | **197** | **197** |
 
-196 problem(s), 196 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-13).
+197 problem(s), 197 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-14).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 178 |
+| Python | 179 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -134,7 +134,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (92)</summary>
+<details><summary><b>Medium</b> (93)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -226,6 +226,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python | [folder](Medium/3517-smallest-palindromic-rearrangement-i/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python | [folder](Medium/3612-process-string-with-special-operations-i/) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Python | [folder](Medium/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Python | [folder](Medium/3727-maximum-alternating-sum-of-squares/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | C | [folder](Medium/3751-total-waviness-of-numbers-in-range-i/) |

@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (103)
+## Array (104)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -92,6 +92,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
 - #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -266,7 +267,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Hash Table (38)
+## Hash Table (39)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -296,6 +297,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
@@ -595,6 +597,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 
+## Segment Tree (3)
+
+- #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
+## Binary Indexed Tree (2)
+
+- #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
+
 ## Bubble Sort (2)
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -625,19 +638,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 
-## Segment Tree (2)
-
-- #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
 ## String Matching (2)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
-
-## Binary Indexed Tree (1)
-
-- #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 

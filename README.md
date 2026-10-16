@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 101 | 101 |
+| Easy | 102 | 102 |
 | Medium | 93 | 93 |
 | Hard | 3 | 3 |
-| **Total** | **197** | **197** |
+| **Total** | **198** | **198** |
 
-197 problem(s), 197 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-14).
+198 problem(s), 198 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-16).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 179 |
+| Python | 180 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (101)</summary>
+<details><summary><b>Easy</b> (102)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -108,6 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | C | [folder](Easy/2485-find-the-pivot-integer/) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Python | [folder](Easy/2574-left-and-right-sum-differences/) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Python | [folder](Easy/2778-sum-of-squares-of-special-elements/) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Python | [folder](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Python | [folder](Easy/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |

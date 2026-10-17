@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 103 | 103 |
+| Easy | 104 | 104 |
 | Medium | 94 | 94 |
 | Hard | 3 | 3 |
-| **Total** | **200** | **200** |
+| **Total** | **201** | **201** |
 
-200 problem(s), 200 solution file(s) in this repository.
+201 problem(s), 201 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 182 |
+| Python | 183 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (103)</summary>
+<details><summary><b>Easy</b> (104)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -75,6 +75,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Python | [folder](Easy/0744-find-smallest-letter-greater-than-target/) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Python | [folder](Easy/0796-rotate-string/) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Python | [folder](Easy/0836-rectangle-overlap/) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Python | [folder](Easy/0977-squares-of-a-sorted-array/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Python | [folder](Easy/1021-remove-outermost-parentheses/) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Python | [folder](Easy/1025-divisor-game/) |

@@ -336,7 +336,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Two Pointers (20)
+## Two Pointers (21)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -356,6 +356,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium
 - #977 [Squares of a Sorted Array](Easy/0977-squares-of-a-sorted-array/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
@@ -521,7 +522,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
-## Linked List (7)
+## Linked List (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
@@ -530,6 +531,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
 - #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Divide and Conquer (6)
 

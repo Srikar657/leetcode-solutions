@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 103 | 103 |
-| Medium | 93 | 93 |
+| Medium | 94 | 94 |
 | Hard | 3 | 3 |
-| **Total** | **199** | **199** |
+| **Total** | **200** | **200** |
 
-199 problem(s), 199 solution file(s) in this repository.
+200 problem(s), 200 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 181 |
+| Python | 182 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -136,7 +136,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (93)</summary>
+<details><summary><b>Medium</b> (94)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -216,6 +216,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | C | [folder](Medium/1871-jump-game-vii/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | [folder](Medium/1927-sum-game/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | [folder](Medium/2091-removing-minimum-and-maximum-from-array/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | C | [folder](Medium/2161-partition-array-according-to-given-pivot/) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Python | [folder](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | C | [folder](Medium/2483-minimum-penalty-for-a-shop/) |

@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 102 | 102 |
+| Easy | 103 | 103 |
 | Medium | 93 | 93 |
 | Hard | 3 | 3 |
-| **Total** | **198** | **198** |
+| **Total** | **199** | **199** |
 
-198 problem(s), 198 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-16).
+199 problem(s), 199 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 180 |
+| Python | 181 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (102)</summary>
+<details><summary><b>Easy</b> (103)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -41,6 +41,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | C | [folder](Easy/0058-length-of-last-word/) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Python | [folder](Easy/0066-plus-one/) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python | [folder](Easy/0069-sqrtx/) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | [folder](Easy/0136-single-number/) |

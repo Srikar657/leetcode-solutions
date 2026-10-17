@@ -336,7 +336,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Two Pointers (21)
+## Two Pointers (22)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -355,6 +355,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #977 [Squares of a Sorted Array](Easy/0977-squares-of-a-sorted-array/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
@@ -511,6 +512,18 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 
+## Linked List (9)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Bracket Sequences (8)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
@@ -521,17 +534,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
-
-## Linked List (8)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Divide and Conquer (6)
 

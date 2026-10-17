@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 104 | 104 |
+| Easy | 105 | 105 |
 | Medium | 94 | 94 |
 | Hard | 3 | 3 |
-| **Total** | **201** | **201** |
+| **Total** | **202** | **202** |
 
-201 problem(s), 201 solution file(s) in this repository.
+202 problem(s), 202 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 183 |
+| Python | 184 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (104)</summary>
+<details><summary><b>Easy</b> (105)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -45,6 +45,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | [folder](Easy/0136-single-number/) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python | [folder](Easy/0141-linked-list-cycle/) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Python | [folder](Easy/0160-intersection-of-two-linked-lists/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python | [folder](Easy/0169-majority-element/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Python | [folder](Easy/0191-number-of-1-bits/) |

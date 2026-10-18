@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 105 | 105 |
-| Medium | 95 | 95 |
+| Medium | 96 | 96 |
 | Hard | 3 | 3 |
-| **Total** | **203** | **203** |
+| **Total** | **204** | **204** |
 
-203 problem(s), 203 solution file(s) in this repository.
+204 problem(s), 204 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-18).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 185 |
+| Python | 186 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -138,7 +138,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (95)</summary>
+<details><summary><b>Medium</b> (96)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -176,6 +176,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Python | [folder](Medium/0201-bitwise-and-of-numbers-range/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | [folder](Medium/0215-kth-largest-element-in-an-array/) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Python | [folder](Medium/0237-delete-node-in-a-linked-list/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python | [folder](Medium/0238-product-of-array-except-self/) |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Python | [folder](Medium/0260-single-number-iii/) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Python | [folder](Medium/0274-h-index/) |

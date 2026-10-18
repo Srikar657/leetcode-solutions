@@ -462,6 +462,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
+## Linked List (12)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Counting (11)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -475,20 +490,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Linked List (11)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Prefix Sum (11)
 

@@ -223,6 +223,50 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
+## Hash Table (41)
+
+- #1 [Two Sum](Easy/0001-two-sum/) - Easy
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
+- #12 [Integer to Roman](Medium/0012-integer-to-roman/) - Medium
+- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
+- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
+- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
+- #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
+- #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
+- #409 [Longest Palindrome](Easy/0409-longest-palindrome/) - Easy
+- #424 [Longest Repeating Character Replacement](Medium/0424-longest-repeating-character-replacement/) - Medium
+- #442 [Find All Duplicates in an Array](Medium/0442-find-all-duplicates-in-an-array/) - Medium
+- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
+- #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
+- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
+- #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
+- #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
+- #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
+- #1807 [Evaluate the Bracket Pairs of a String](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) - Medium
+- #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
+- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
+- #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
+- #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
+- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+- #3120 [Count the Number of Special Characters I](Easy/3120-count-the-number-of-special-characters-i/) - Easy
+- #3121 [Count the Number of Special Characters II](Medium/3121-count-the-number-of-special-characters-ii/) - Medium
+- #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
+- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
+- #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
+- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Sorting (41)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
@@ -267,49 +311,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Hash Table (40)
-
-- #1 [Two Sum](Easy/0001-two-sum/) - Easy
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #12 [Integer to Roman](Medium/0012-integer-to-roman/) - Medium
-- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
-- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
-- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
-- #268 [Missing Number](Easy/0268-missing-number/) - Easy
-- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
-- #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
-- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
-- #409 [Longest Palindrome](Easy/0409-longest-palindrome/) - Easy
-- #424 [Longest Repeating Character Replacement](Medium/0424-longest-repeating-character-replacement/) - Medium
-- #442 [Find All Duplicates in an Array](Medium/0442-find-all-duplicates-in-an-array/) - Medium
-- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
-- #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
-- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
-- #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
-- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
-- #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
-- #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
-- #1807 [Evaluate the Bracket Pairs of a String](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) - Medium
-- #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
-- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
-- #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
-- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
-- #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
-- #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
-- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
-- #3120 [Count the Number of Special Characters I](Easy/3120-count-the-number-of-special-characters-i/) - Easy
-- #3121 [Count the Number of Special Characters II](Medium/3121-count-the-number-of-special-characters-ii/) - Medium
-- #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
-- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
-- #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
-- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
 ## Greedy (24)
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -337,7 +338,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Two Pointers (23)
+## Two Pointers (24)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -348,6 +349,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
 - #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
@@ -474,6 +476,20 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Linked List (11)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Prefix Sum (11)
 
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
@@ -487,19 +503,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2485 [Find the Pivot Integer](Easy/2485-find-the-pivot-integer/) - Easy
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Linked List (10)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Simulation (10)
 
@@ -593,6 +596,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 
+## Floyd's Cycle Finding Algorithm (3)
+
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+
 ## Monotonic Stack (3)
 
 - #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
@@ -625,11 +634,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-
-## Floyd's Cycle Finding Algorithm (2)
-
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
 ## Game Theory (2)
 

@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 105 | 105 |
-| Medium | 96 | 96 |
+| Medium | 97 | 97 |
 | Hard | 3 | 3 |
-| **Total** | **204** | **204** |
+| **Total** | **205** | **205** |
 
-204 problem(s), 204 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-19).
+205 problem(s), 205 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-20).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 186 |
+| Python | 187 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -138,7 +138,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (96)</summary>
+<details><summary><b>Medium</b> (97)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -184,6 +184,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Python | [folder](Medium/0300-longest-increasing-subsequence/) |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Python | [folder](Medium/0316-remove-duplicate-letters/) |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Python | [folder](Medium/0318-maximum-product-of-word-lengths/) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Python | [folder](Medium/0328-odd-even-linked-list/) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Python | [folder](Medium/0347-top-k-frequent-elements/) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Python | [folder](Medium/0371-sum-of-two-integers/) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Python | [folder](Medium/0373-find-k-pairs-with-smallest-sums/) |

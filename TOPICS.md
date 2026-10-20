@@ -446,6 +446,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 
+## Linked List (13)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
+- #328 [Odd Even Linked List](Medium/0328-odd-even-linked-list/) - Medium
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Recursion (13)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -461,21 +477,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
-
-## Linked List (12)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Counting (11)
 

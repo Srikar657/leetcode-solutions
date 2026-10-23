@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 106 | 106 |
-| Medium | 97 | 97 |
+| Medium | 98 | 98 |
 | Hard | 3 | 3 |
-| **Total** | **206** | **206** |
+| **Total** | **207** | **207** |
 
-206 problem(s), 206 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-22).
+207 problem(s), 207 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 188 |
+| Python | 189 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -139,7 +139,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (97)</summary>
+<details><summary><b>Medium</b> (98)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -167,6 +167,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | Python | [folder](Medium/0089-gray-code/) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Python | [folder](Medium/0137-single-number-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python | [folder](Medium/0142-linked-list-cycle-ii/) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Python | [folder](Medium/0143-reorder-list/) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Python | [folder](Medium/0150-evaluate-reverse-polish-notation/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Python | [folder](Medium/0151-reverse-words-in-a-string/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | C | [folder](Medium/0153-find-minimum-in-rotated-sorted-array/) |

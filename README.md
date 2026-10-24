@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 106 | 106 |
+| Easy | 107 | 107 |
 | Medium | 99 | 99 |
 | Hard | 3 | 3 |
-| **Total** | **208** | **208** |
+| **Total** | **209** | **209** |
 
-208 problem(s), 208 solution file(s) in this repository.
+209 problem(s), 209 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 190 |
+| Python | 191 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (106)</summary>
+<details><summary><b>Easy</b> (107)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -94,6 +94,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python | [folder](Easy/1480-running-sum-of-1d-array/) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | C | [folder](Easy/1502-can-make-arithmetic-progression-from-sequence/) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Python | [folder](Easy/1512-number-of-good-pairs/) |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Python | [folder](Easy/1544-make-the-string-great/) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Python | [folder](Easy/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Python | [folder](Easy/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Python | [folder](Easy/1732-find-the-highest-altitude/) |

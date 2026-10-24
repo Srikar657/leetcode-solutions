@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 107 | 107 |
+| Easy | 108 | 108 |
 | Medium | 99 | 99 |
 | Hard | 3 | 3 |
-| **Total** | **209** | **209** |
+| **Total** | **210** | **210** |
 
-209 problem(s), 209 solution file(s) in this repository.
+210 problem(s), 210 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 191 |
+| Python | 192 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (107)</summary>
+<details><summary><b>Easy</b> (108)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -91,6 +91,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Python | [folder](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python | [folder](Easy/1464-maximum-product-of-two-elements-in-an-array/) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Python | [folder](Easy/1470-shuffle-the-array/) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Python | [folder](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python | [folder](Easy/1480-running-sum-of-1d-array/) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | C | [folder](Easy/1502-can-make-arithmetic-progression-from-sequence/) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Python | [folder](Easy/1512-number-of-good-pairs/) |

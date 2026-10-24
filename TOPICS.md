@@ -110,7 +110,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (61)
+## String (62)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -152,6 +152,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 - #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
 - #1576 [Replace All ?'s to Avoid Consecutive Repeating Characters](Easy/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1807 [Evaluate the Bracket Pairs of a String](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) - Medium
@@ -368,7 +369,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Stack (20)
+## Stack (21)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
@@ -389,6 +390,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Binary Search (18)

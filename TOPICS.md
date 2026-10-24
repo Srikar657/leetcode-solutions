@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (106)
+## Array (107)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -53,6 +53,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #435 [Non-overlapping Intervals](Medium/0435-non-overlapping-intervals/) - Medium
 - #442 [Find All Duplicates in an Array](Medium/0442-find-all-duplicates-in-an-array/) - Medium
 - #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
 - #561 [Array Partition](Easy/0561-array-partition/) - Easy
 - #628 [Maximum Product of Three Numbers](Easy/0628-maximum-product-of-three-numbers/) - Easy
@@ -226,7 +227,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Hash Table (41)
+## Hash Table (42)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -248,6 +249,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #424 [Longest Repeating Character Replacement](Medium/0424-longest-repeating-character-replacement/) - Medium
 - #442 [Find All Duplicates in an Array](Medium/0442-find-all-duplicates-in-an-array/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
 - #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
@@ -370,7 +372,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Stack (22)
+## Stack (23)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
@@ -380,6 +382,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
 - #394 [Decode String](Medium/0394-decode-string/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
@@ -593,6 +596,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1833 [Maximum Ice Cream Bars](Medium/1833-maximum-ice-cream-bars/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 
+## Monotonic Stack (5)
+
+- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Backtracking (4)
 
 - #39 [Combination Sum](Medium/0039-combination-sum/) - Medium
@@ -606,13 +617,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #74 [Search a 2D Matrix](Medium/0074-search-a-2d-matrix/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
-
-## Monotonic Stack (4)
-
-- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Bucket Sort (3)
 

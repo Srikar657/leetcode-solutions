@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 108 | 108 |
+| Easy | 109 | 109 |
 | Medium | 99 | 99 |
 | Hard | 3 | 3 |
-| **Total** | **210** | **210** |
+| **Total** | **211** | **211** |
 
-210 problem(s), 210 solution file(s) in this repository.
+211 problem(s), 211 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 192 |
+| Python | 193 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (108)</summary>
+<details><summary><b>Easy</b> (109)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -68,6 +68,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Python | [folder](Easy/0392-is-subsequence/) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Python | [folder](Easy/0409-longest-palindrome/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Python | [folder](Easy/0412-fizz-buzz/) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Python | [folder](Easy/0496-next-greater-element-i/) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python | [folder](Easy/0504-base-7/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | [folder](Easy/0509-fibonacci-number/) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | Python | [folder](Easy/0561-array-partition/) |

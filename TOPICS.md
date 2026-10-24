@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (104)
+## Array (105)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -67,6 +67,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 - #1470 [Shuffle the Array](Easy/1470-shuffle-the-array/) - Easy
 - #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
@@ -367,7 +368,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Stack (19)
+## Stack (20)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
@@ -386,6 +387,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
@@ -514,12 +516,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Simulation (10)
+## Simulation (11)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy

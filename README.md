@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 106 | 106 |
-| Medium | 98 | 98 |
+| Medium | 99 | 99 |
 | Hard | 3 | 3 |
-| **Total** | **207** | **207** |
+| **Total** | **208** | **208** |
 
-207 problem(s), 207 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
+208 problem(s), 208 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 189 |
+| Python | 190 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -139,7 +139,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (98)</summary>
+<details><summary><b>Medium</b> (99)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -214,6 +214,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python | [folder](Medium/1291-sequential-digits/) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Python | [folder](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Python | [folder](Medium/1658-minimum-operations-to-reduce-x-to-zero/) |

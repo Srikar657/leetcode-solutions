@@ -4,15 +4,13 @@ class Solution(object):
         :type prices: List[int]
         :rtype: List[int]
         """
+        nums=prices
         n=len(prices)
         res=[]
+        t=-1
         for i in range(n):
-            l=0
-            for j in range(i+1,n):
-                if prices[j]<=prices[i]:
-                    res.append(prices[i]-prices[j])
-                    l=1
-                    break
-            if l == 0:
-                res.append(prices[i])
-        return res
+            while res and nums[res[t]]>=nums[i]:
+                nums[res[t]]=nums[res[t]]-nums[i]
+                res.pop()
+            res.append(i)
+        return nums

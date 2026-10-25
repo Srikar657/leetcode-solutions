@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 109 | 109 |
-| Medium | 100 | 100 |
+| Medium | 101 | 101 |
 | Hard | 3 | 3 |
-| **Total** | **212** | **212** |
+| **Total** | **213** | **213** |
 
-212 problem(s), 212 solution file(s) in this repository.
+213 problem(s), 213 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-25).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 194 |
+| Python | 195 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -142,7 +142,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (100)</summary>
+<details><summary><b>Medium</b> (101)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -200,6 +200,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Python | [folder](Medium/0424-longest-repeating-character-replacement/) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Python | [folder](Medium/0435-non-overlapping-intervals/) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Python | [folder](Medium/0442-find-all-duplicates-in-an-array/) |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Python | [folder](Medium/0445-add-two-numbers-ii/) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Python | [folder](Medium/0451-sort-characters-by-frequency/) |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Python | [folder](Medium/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Python | [folder](Medium/0516-longest-palindromic-subsequence/) |

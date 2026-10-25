@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 109 | 109 |
-| Medium | 99 | 99 |
+| Medium | 100 | 100 |
 | Hard | 3 | 3 |
-| **Total** | **211** | **211** |
+| **Total** | **212** | **212** |
 
-211 problem(s), 211 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
+212 problem(s), 212 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-25).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 193 |
+| Python | 194 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -142,7 +142,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (99)</summary>
+<details><summary><b>Medium</b> (100)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -174,6 +174,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Python | [folder](Medium/0150-evaluate-reverse-polish-notation/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Python | [folder](Medium/0151-reverse-words-in-a-string/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | C | [folder](Medium/0153-find-minimum-in-rotated-sorted-array/) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Python | [folder](Medium/0155-min-stack/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Python | [folder](Medium/0162-find-peak-element/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python | [folder](Medium/0164-maximum-gap/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Python | [folder](Medium/0167-two-sum-ii-input-array-is-sorted/) |

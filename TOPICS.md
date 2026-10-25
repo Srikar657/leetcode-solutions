@@ -372,11 +372,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Stack (23)
+## Stack (24)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
@@ -624,6 +625,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 
+## Design (3)
+
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+
 ## Floyd's Cycle Finding Algorithm (3)
 
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
@@ -651,11 +658,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
-
-## Design (2)
-
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
 ## Game Theory (2)
 

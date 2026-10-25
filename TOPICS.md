@@ -177,7 +177,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (47)
+## Math (48)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -198,6 +198,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #342 [Power of Four](Easy/0342-power-of-four/) - Easy
 - #371 [Sum of Two Integers](Medium/0371-sum-of-two-integers/) - Medium
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
+- #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
 - #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
@@ -345,6 +346,34 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
+## Stack (25)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
+- #394 [Decode String](Medium/0394-decode-string/) - Medium
+- #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+- #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Greedy (24)
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -371,33 +400,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
-
-## Stack (24)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #155 [Min Stack](Medium/0155-min-stack/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
-- #394 [Decode String](Medium/0394-decode-string/) - Medium
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
-- #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
-- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Binary Search (18)
 
@@ -460,7 +462,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 
-## Linked List (15)
+## Linked List (16)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
@@ -474,6 +476,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
 - #328 [Odd Even Linked List](Medium/0328-odd-even-linked-list/) - Medium
+- #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium

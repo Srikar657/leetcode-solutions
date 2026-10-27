@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 109 | 109 |
+| Easy | 110 | 110 |
 | Medium | 101 | 101 |
 | Hard | 3 | 3 |
-| **Total** | **213** | **213** |
+| **Total** | **214** | **214** |
 
-213 problem(s), 213 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-25).
+214 problem(s), 214 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-27).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 195 |
+| Python | 196 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (109)</summary>
+<details><summary><b>Easy</b> (110)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -138,6 +138,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Python | [folder](Easy/3856-trim-trailing-vowels/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Python | [folder](Easy/3870-count-commas-in-range/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Python | [folder](Easy/3875-construct-uniform-parity-array-i/) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Python | [folder](Easy/3963-create-grid-with-exactly-one-path/) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Python | [folder](Easy/4070-minimum-rotations-to-dial-a-number-i/) |
 
 </details>

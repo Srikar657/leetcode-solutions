@@ -177,7 +177,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (48)
+## Math (49)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -198,6 +198,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #342 [Power of Four](Easy/0342-power-of-four/) - Easy
 - #371 [Sum of Two Integers](Medium/0371-sum-of-two-integers/) - Medium
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
+- #441 [Arranging Coins](Easy/0441-arranging-coins/) - Easy
 - #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
 - #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #504 [Base 7](Easy/0504-base-7/) - Easy
@@ -401,7 +402,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Binary Search (18)
+## Binary Search (19)
 
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
 - #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
@@ -417,6 +418,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #300 [Longest Increasing Subsequence](Medium/0300-longest-increasing-subsequence/) - Medium
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #441 [Arranging Coins](Easy/0441-arranging-coins/) - Easy
 - #744 [Find Smallest Letter Greater Than Target](Easy/0744-find-smallest-letter-greater-than-target/) - Easy
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
 - #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium

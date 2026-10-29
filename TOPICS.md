@@ -112,7 +112,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (62)
+## String (63)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -159,6 +159,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1807 [Evaluate the Bracket Pairs of a String](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) - Medium
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
@@ -318,6 +319,35 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
+## Stack (26)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
+- #394 [Decode String](Medium/0394-decode-string/) - Medium
+- #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+- #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
+
 ## Two Pointers (26)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -346,34 +376,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
-## Stack (25)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #155 [Min Stack](Medium/0155-min-stack/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
-- #394 [Decode String](Medium/0394-decode-string/) - Medium
-- #445 [Add Two Numbers II](Medium/0445-add-two-numbers-ii/) - Medium
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
-- #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
-- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Greedy (24)
 
@@ -501,6 +503,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
+## Simulation (12)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
+
 ## Counting (11)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -528,20 +545,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2485 [Find the Pivot Integer](Easy/2485-find-the-pivot-integer/) - Easy
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Simulation (11)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
-- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
 ## Sliding Window (10)
 

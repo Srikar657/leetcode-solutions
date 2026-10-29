@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 111 | 111 |
-| Medium | 101 | 101 |
+| Medium | 102 | 102 |
 | Hard | 3 | 3 |
-| **Total** | **215** | **215** |
+| **Total** | **216** | **216** |
 
-215 problem(s), 215 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-28).
+216 problem(s), 216 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-29).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 197 |
+| Python | 198 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -144,7 +144,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (101)</summary>
+<details><summary><b>Medium</b> (102)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -229,6 +229,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Python | [folder](Medium/1833-maximum-ice-cream-bars/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | C | [folder](Medium/1871-jump-game-vii/) |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Python | [folder](Medium/1910-remove-all-occurrences-of-a-substring/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | [folder](Medium/1927-sum-game/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | [folder](Medium/2091-removing-minimum-and-maximum-from-array/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |

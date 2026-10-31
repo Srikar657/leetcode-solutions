@@ -112,7 +112,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (63)
+## String (64)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -168,6 +168,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+- #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3120 [Count the Number of Special Characters I](Easy/3120-count-the-number-of-special-characters-i/) - Easy
 - #3121 [Count the Number of Special Characters II](Medium/3121-count-the-number-of-special-characters-ii/) - Medium
 - #3210 [Find the Encrypted String](Easy/3210-find-the-encrypted-string/) - Easy

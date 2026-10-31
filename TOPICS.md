@@ -574,6 +574,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
+## Binary Tree (6)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+
 ## Divide and Conquer (6)
 
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
@@ -601,11 +610,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
-## Binary Tree (5)
+## Tree (6)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
@@ -633,14 +643,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
-## Tree (5)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-
 ## Backtracking (4)
 
 - #39 [Combination Sum](Medium/0039-combination-sum/) - Medium
@@ -654,6 +656,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #74 [Search a 2D Matrix](Medium/0074-search-a-2d-matrix/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+
+## Breadth-First Search (3)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 
 ## Bucket Sort (3)
 
@@ -689,11 +697,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
-
-## Breadth-First Search (2)
-
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 
 ## Bubble Sort (2)
 

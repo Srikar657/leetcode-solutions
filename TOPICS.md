@@ -320,9 +320,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (26)
+## Stack (27)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #155 [Min Stack](Medium/0155-min-stack/) - Medium
@@ -693,6 +694,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
 
+## Binary Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+
 ## Boyer–Moore Majority Vote Algorithm (1)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -704,6 +709,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Brainteaser (1)
 
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
+
+## Depth-First Search (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Euclidean Algorithm (1)
 
@@ -752,6 +761,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Radix Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+
+## Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Trie (1)
 

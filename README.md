@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 114 | 114 |
+| Easy | 115 | 115 |
 | Medium | 102 | 102 |
 | Hard | 3 | 3 |
-| **Total** | **219** | **219** |
+| **Total** | **220** | **220** |
 
-219 problem(s), 219 solution file(s) in this repository.
+220 problem(s), 220 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 201 |
+| Python | 202 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (114)</summary>
+<details><summary><b>Easy</b> (115)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -48,6 +48,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | [folder](Easy/0136-single-number/) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python | [folder](Easy/0141-linked-list-cycle/) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Python | [folder](Easy/0144-binary-tree-preorder-traversal/) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Python | [folder](Easy/0145-binary-tree-postorder-traversal/) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Python | [folder](Easy/0160-intersection-of-two-linked-lists/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python | [folder](Easy/0169-majority-element/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Python | [folder](Easy/0191-number-of-1-bits/) |

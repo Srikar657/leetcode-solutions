@@ -624,6 +624,20 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
 
+## Binary Tree (4)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+
+## Depth-First Search (4)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+
 ## Matrix (4)
 
 - #48 [Rotate Image](Medium/0048-rotate-image/) - Medium
@@ -631,9 +645,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 
-## Binary Tree (3)
+## Tree (4)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
@@ -642,12 +657,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
-
-## Depth-First Search (3)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
 ## Design (3)
 
@@ -672,12 +681,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Tree (3)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
 ## Binary Indexed Tree (2)
 
@@ -725,6 +728,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Brainteaser (1)
 
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
+
+## Breadth-First Search (1)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 
 ## Euclidean Algorithm (1)
 

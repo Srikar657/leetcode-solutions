@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 117 | 117 |
-| Medium | 103 | 103 |
+| Medium | 104 | 104 |
 | Hard | 3 | 3 |
-| **Total** | **223** | **223** |
+| **Total** | **224** | **224** |
 
-223 problem(s), 223 solution file(s) in this repository.
+224 problem(s), 224 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 205 |
+| Python | 206 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -150,7 +150,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (103)</summary>
+<details><summary><b>Medium</b> (104)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -177,6 +177,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Python | [folder](Medium/0078-subsets/) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | Python | [folder](Medium/0089-gray-code/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python | [folder](Medium/0102-binary-tree-level-order-traversal/) |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Python | [folder](Medium/0107-binary-tree-level-order-traversal-ii/) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Python | [folder](Medium/0137-single-number-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python | [folder](Medium/0142-linked-list-cycle-ii/) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Python | [folder](Medium/0143-reorder-list/) |

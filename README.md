@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 111 | 111 |
+| Easy | 112 | 112 |
 | Medium | 102 | 102 |
 | Hard | 3 | 3 |
-| **Total** | **216** | **216** |
+| **Total** | **217** | **217** |
 
-216 problem(s), 216 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-29).
+217 problem(s), 217 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 198 |
+| Python | 199 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (111)</summary>
+<details><summary><b>Easy</b> (112)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -121,6 +121,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Python | [folder](Easy/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
 | 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | C | [folder](Easy/3074-apple-redistribution-into-boxes/) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Python | [folder](Easy/3110-score-of-a-string/) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Python | [folder](Easy/3120-count-the-number-of-special-characters-i/) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python | [folder](Easy/3210-find-the-encrypted-string/) |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Python | [folder](Easy/3314-construct-the-minimum-bitwise-array-i/) |

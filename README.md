@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 117 | 117 |
+| Easy | 118 | 118 |
 | Medium | 104 | 104 |
 | Hard | 3 | 3 |
-| **Total** | **224** | **224** |
+| **Total** | **225** | **225** |
 
-224 problem(s), 224 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
+225 problem(s), 225 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-03).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 206 |
+| Python | 207 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (117)</summary>
+<details><summary><b>Easy</b> (118)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -140,6 +140,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python | [folder](Easy/3658-gcd-of-odd-and-even-sums/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Python | [folder](Easy/3718-smallest-missing-multiple-of-k/) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Python | [folder](Easy/3731-find-missing-elements/) |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Python | [folder](Easy/3736-minimum-moves-to-equal-array-elements-iii/) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Python | [folder](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Python | [folder](Easy/3838-weighted-word-mapping/) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Python | [folder](Easy/3856-trim-trailing-vowels/) |

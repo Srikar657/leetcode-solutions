@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (107)
+## Array (108)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -108,6 +108,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
+- #3736 [Minimum Moves to Equal Array Elements III](Easy/3736-minimum-moves-to-equal-array-elements-iii/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
@@ -179,7 +180,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (49)
+## Math (50)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -225,6 +226,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3622 [Check Divisibility by Digit Sum and Product](Easy/3622-check-divisibility-by-digit-sum-and-product/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
+- #3736 [Minimum Moves to Equal Array Elements III](Easy/3736-minimum-moves-to-equal-array-elements-iii/) - Easy
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 - #3754 [Concatenate Non-Zero Digits and Multiply by Sum I](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) - Easy
 - #3870 [Count Commas in Range](Easy/3870-count-commas-in-range/) - Easy

@@ -180,7 +180,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (50)
+## Math (51)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -191,6 +191,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #60 [Permutation Sequence](Hard/0060-permutation-sequence/) - Hard
 - #66 [Plus One](Easy/0066-plus-one/) - Easy
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
@@ -453,12 +454,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 
-## Dynamic Programming (16)
+## Dynamic Programming (17)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
 - #55 [Jump Game](Medium/0055-jump-game/) - Medium
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #300 [Longest Increasing Subsequence](Medium/0300-longest-increasing-subsequence/) - Medium
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
@@ -726,6 +728,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 
+## Memoization (2)
+
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
 ## Pigeonhole Principle (2)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -785,10 +792,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Manacher (1)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-
-## Memoization (1)
-
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
 ## Merge Sort (1)
 

@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 121 | 121 |
-| Medium | 105 | 105 |
+| Medium | 106 | 106 |
 | Hard | 3 | 3 |
-| **Total** | **229** | **229** |
+| **Total** | **230** | **230** |
 
-229 problem(s), 229 solution file(s) in this repository.
+230 problem(s), 230 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 211 |
+| Python | 212 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -154,7 +154,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (105)</summary>
+<details><summary><b>Medium</b> (106)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -193,6 +193,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python | [folder](Medium/0164-maximum-gap/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Python | [folder](Medium/0167-two-sum-ii-input-array-is-sorted/) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Python | [folder](Medium/0179-largest-number/) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Python | [folder](Medium/0198-house-robber/) |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Python | [folder](Medium/0201-bitwise-and-of-numbers-range/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | [folder](Medium/0215-kth-largest-element-in-an-array/) |

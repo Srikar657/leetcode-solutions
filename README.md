@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 119 | 119 |
-| Medium | 104 | 104 |
+| Medium | 105 | 105 |
 | Hard | 3 | 3 |
-| **Total** | **226** | **226** |
+| **Total** | **227** | **227** |
 
-226 problem(s), 226 solution file(s) in this repository.
+227 problem(s), 227 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 208 |
+| Python | 209 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -152,7 +152,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (104)</summary>
+<details><summary><b>Medium</b> (105)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -219,6 +219,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Python | [folder](Medium/0560-subarray-sum-equals-k/) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Python | [folder](Medium/0647-palindromic-substrings/) |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Python | [folder](Medium/0678-valid-parenthesis-string/) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Python | [folder](Medium/0701-insert-into-a-binary-search-tree/) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Python | [folder](Medium/0707-design-linked-list/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python | [folder](Medium/0739-daily-temperatures/) |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Python | [folder](Medium/0779-k-th-symbol-in-grammar/) |

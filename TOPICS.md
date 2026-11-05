@@ -565,7 +565,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 
-## Binary Tree (8)
+## Binary Tree (9)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -575,6 +575,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
+## Tree (9)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Bracket Sequences (8)
 
@@ -586,17 +599,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1111 [Maximum Nesting Depth of Two Valid Parentheses Strings](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) - Medium
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
-
-## Tree (8)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Divide and Conquer (6)
 
@@ -705,6 +707,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 
+## Binary Search Tree (2)
+
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Bubble Sort (2)
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -734,10 +741,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
-
-## Binary Search Tree (1)
-
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 

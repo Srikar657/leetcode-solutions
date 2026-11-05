@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (108)
+## Array (109)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -33,6 +33,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
@@ -454,7 +455,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 
-## Dynamic Programming (17)
+## Dynamic Programming (18)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
@@ -462,6 +463,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #55 [Jump Game](Medium/0055-jump-game/) - Medium
 - #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
 - #300 [Longest Increasing Subsequence](Medium/0300-longest-increasing-subsequence/) - Medium
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #435 [Non-overlapping Intervals](Medium/0435-non-overlapping-intervals/) - Medium

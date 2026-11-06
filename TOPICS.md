@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (109)
+## Array (110)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -69,6 +69,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 - #1470 [Shuffle the Array](Easy/1470-shuffle-the-array/) - Easy
@@ -280,7 +281,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Sorting (41)
+## Sorting (42)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -308,6 +309,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1200 [Minimum Absolute Difference](Easy/1200-minimum-absolute-difference/) - Easy
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 - #1502 [Can Make Arithmetic Progression From Sequence](Easy/1502-can-make-arithmetic-progression-from-sequence/) - Easy
 - #1833 [Maximum Ice Cream Bars](Medium/1833-maximum-ice-cream-bars/) - Medium
@@ -356,7 +358,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 
-## Two Pointers (26)
+## Two Pointers (27)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -381,6 +383,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #977 [Squares of a Sorted Array](Easy/0977-squares-of-a-sorted-array/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -412,7 +415,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3723 [Maximize Sum of Squares of Digits](Medium/3723-maximize-sum-of-squares-of-digits/) - Medium
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 
-## Binary Search (19)
+## Binary Search (20)
 
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
 - #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
@@ -431,6 +434,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #441 [Arranging Coins](Easy/0441-arranging-coins/) - Easy
 - #744 [Find Smallest Letter Greater Than Target](Easy/0744-find-smallest-letter-greater-than-target/) - Easy
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 

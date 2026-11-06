@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 121 | 121 |
+| Easy | 122 | 122 |
 | Medium | 106 | 106 |
 | Hard | 3 | 3 |
-| **Total** | **230** | **230** |
+| **Total** | **231** | **231** |
 
-230 problem(s), 230 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
+231 problem(s), 231 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-06).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 212 |
+| Python | 213 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (121)</summary>
+<details><summary><b>Easy</b> (122)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -99,6 +99,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | [folder](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Python | [folder](Easy/1331-rank-transform-of-an-array/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Python | [folder](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Python | [folder](Easy/1385-find-the-distance-value-between-two-arrays/) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python | [folder](Easy/1464-maximum-product-of-two-elements-in-an-array/) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Python | [folder](Easy/1470-shuffle-the-array/) |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Python | [folder](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) |

@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (110)
+## Array (111)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -22,6 +22,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #74 [Search a 2D Matrix](Medium/0074-search-a-2d-matrix/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #78 [Subsets](Medium/0078-subsets/) - Medium
+- #108 [Convert Sorted Array to Binary Search Tree](Easy/0108-convert-sorted-array-to-binary-search-tree/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #136 [Single Number](Easy/0136-single-number/) - Easy
 - #137 [Single Number II](Medium/0137-single-number-ii/) - Medium
@@ -532,6 +533,20 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
+## Binary Tree (11)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
+- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #108 [Convert Sorted Array to Binary Search Tree](Easy/0108-convert-sorted-array-to-binary-search-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Counting (11)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -560,7 +575,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Binary Tree (10)
+## Tree (11)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -568,6 +583,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
 - #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #108 [Convert Sorted Array to Binary Search Tree](Easy/0108-convert-sorted-array-to-binary-search-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
@@ -586,19 +602,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
 - #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 
-## Tree (10)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
-- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
-- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
 ## Bracket Sequences (8)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
@@ -610,6 +613,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1541 [Minimum Insertions to Balance a Parentheses String](Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) - Medium
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
+## Divide and Conquer (7)
+
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #108 [Convert Sorted Array to Binary Search Tree](Easy/0108-convert-sorted-array-to-binary-search-tree/) - Easy
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #191 [Number of 1 Bits](Easy/0191-number-of-1-bits/) - Easy
+- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
+- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Depth-First Search (6)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -618,15 +631,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-
-## Divide and Conquer (6)
-
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #191 [Number of 1 Bits](Easy/0191-number-of-1-bits/) - Easy
-- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
-- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Enumeration (6)
 
@@ -684,6 +688,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 
+## Binary Search Tree (3)
+
+- #108 [Convert Sorted Array to Binary Search Tree](Easy/0108-convert-sorted-array-to-binary-search-tree/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Bucket Sort (3)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -718,11 +728,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
-
-## Binary Search Tree (2)
-
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
-- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Bubble Sort (2)
 

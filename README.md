@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 123 | 123 |
+| Easy | 124 | 124 |
 | Medium | 106 | 106 |
 | Hard | 3 | 3 |
-| **Total** | **232** | **232** |
+| **Total** | **233** | **233** |
 
-232 problem(s), 232 solution file(s) in this repository.
+233 problem(s), 233 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-08).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 214 |
+| Python | 215 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (123)</summary>
+<details><summary><b>Easy</b> (124)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -70,6 +70,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Python | [folder](Easy/0326-power-of-three/) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Python | [folder](Easy/0342-power-of-four/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Python | [folder](Easy/0344-reverse-string/) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Python | [folder](Easy/0345-reverse-vowels-of-a-string/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Python | [folder](Easy/0349-intersection-of-two-arrays/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Python | [folder](Easy/0387-first-unique-character-in-a-string/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Python | [folder](Easy/0389-find-the-difference/) |

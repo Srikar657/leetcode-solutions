@@ -116,7 +116,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (64)
+## String (65)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -135,6 +135,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
 - #318 [Maximum Product of Word Lengths](Medium/0318-maximum-product-of-word-lengths/) - Medium
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #345 [Reverse Vowels of a String](Easy/0345-reverse-vowels-of-a-string/) - Easy
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 - #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
@@ -359,7 +360,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 
-## Two Pointers (27)
+## Two Pointers (28)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -379,6 +380,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #345 [Reverse Vowels of a String](Easy/0345-reverse-vowels-of-a-string/) - Easy
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium

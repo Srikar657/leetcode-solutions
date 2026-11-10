@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 124 | 124 |
-| Medium | 106 | 106 |
+| Medium | 107 | 107 |
 | Hard | 3 | 3 |
-| **Total** | **233** | **233** |
+| **Total** | **234** | **234** |
 
-233 problem(s), 233 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-08).
+234 problem(s), 234 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-10).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 215 |
+| Python | 216 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -157,7 +157,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (106)</summary>
+<details><summary><b>Medium</b> (107)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -232,6 +232,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Python | [folder](Medium/0856-score-of-parentheses/) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Python | [folder](Medium/0875-koko-eating-bananas/) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Python | [folder](Medium/0946-validate-stack-sequences/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Python | [folder](Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python | [folder](Medium/1288-remove-covered-intervals/) |

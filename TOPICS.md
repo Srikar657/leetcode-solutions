@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (111)
+## Array (112)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -64,6 +64,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #744 [Find Smallest Letter Greater Than Target](Easy/0744-find-smallest-letter-greater-than-target/) - Easy
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #977 [Squares of a Sorted Array](Easy/0977-squares-of-a-sorted-array/) - Easy
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1200 [Minimum Absolute Difference](Easy/1200-minimum-absolute-difference/) - Easy
@@ -328,7 +329,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (29)
+## Stack (30)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -349,6 +350,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #856 [Score of Parentheses](Medium/0856-score-of-parentheses/) - Medium
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
@@ -520,11 +522,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
-## Simulation (12)
+## Simulation (13)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium

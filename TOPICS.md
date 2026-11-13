@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (112)
+## Array (113)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -105,6 +105,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3074 [Apple Redistribution into Boxes](Easy/3074-apple-redistribution-into-boxes/) - Easy
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
+- #3105 [Longest Strictly Increasing or Strictly Decreasing Subarray](Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy

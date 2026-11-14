@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 126 | 126 |
-| Medium | 107 | 107 |
+| Medium | 108 | 108 |
 | Hard | 3 | 3 |
-| **Total** | **236** | **236** |
+| **Total** | **237** | **237** |
 
-236 problem(s), 236 solution file(s) in this repository.
+237 problem(s), 237 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-14).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 218 |
+| Python | 219 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -159,7 +159,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (107)</summary>
+<details><summary><b>Medium</b> (108)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -265,6 +265,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python | [folder](Medium/3517-smallest-palindromic-rearrangement-i/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python | [folder](Medium/3612-process-string-with-special-operations-i/) |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Python | [folder](Medium/3693-climbing-stairs-ii/) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Python | [folder](Medium/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Python | [folder](Medium/3727-maximum-alternating-sum-of-squares/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |

@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 125 | 125 |
+| Easy | 126 | 126 |
 | Medium | 107 | 107 |
 | Hard | 3 | 3 |
-| **Total** | **235** | **235** |
+| **Total** | **236** | **236** |
 
-235 problem(s), 235 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-13).
+236 problem(s), 236 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-14).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 217 |
+| Python | 218 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (125)</summary>
+<details><summary><b>Easy</b> (126)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -138,6 +138,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python | [folder](Easy/3210-find-the-encrypted-string/) |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Python | [folder](Easy/3314-construct-the-minimum-bitwise-array-i/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python | [folder](Easy/3345-smallest-divisible-digit-product-i/) |
+| 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Python | [folder](Easy/3364-minimum-positive-sum-subarray/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python | [folder](Easy/3471-find-the-largest-almost-missing-integer/) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Python | [folder](Easy/3483-unique-3-digit-even-numbers/) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Python | [folder](Easy/3498-reverse-degree-of-a-string/) |

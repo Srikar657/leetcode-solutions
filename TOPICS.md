@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (114)
+## Array (115)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -111,6 +111,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3550 [Smallest Index With Digit Sum Equal to Index](Easy/3550-smallest-index-with-digit-sum-equal-to-index/) - Easy
+- #3693 [Climbing Stairs II](Medium/3693-climbing-stairs-ii/) - Medium
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
 - #3727 [Maximum Alternating Sum of Squares](Medium/3727-maximum-alternating-sum-of-squares/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
@@ -445,6 +446,28 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
+## Dynamic Programming (19)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #55 [Jump Game](Medium/0055-jump-game/) - Medium
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
+- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
+- #300 [Longest Increasing Subsequence](Medium/0300-longest-increasing-subsequence/) - Medium
+- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
+- #435 [Non-overlapping Intervals](Medium/0435-non-overlapping-intervals/) - Medium
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+- #516 [Longest Palindromic Subsequence](Medium/0516-longest-palindromic-subsequence/) - Medium
+- #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium
+- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
+- #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
+- #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
+- #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
+- #3693 [Climbing Stairs II](Medium/3693-climbing-stairs-ii/) - Medium
+- #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
+
 ## Bit Manipulation (18)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
@@ -465,27 +488,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1342 [Number of Steps to Reduce a Number to Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) - Easy
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
-
-## Dynamic Programming (18)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #45 [Jump Game II](Medium/0045-jump-game-ii/) - Medium
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #55 [Jump Game](Medium/0055-jump-game/) - Medium
-- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
-- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
-- #198 [House Robber](Medium/0198-house-robber/) - Medium
-- #300 [Longest Increasing Subsequence](Medium/0300-longest-increasing-subsequence/) - Medium
-- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
-- #435 [Non-overlapping Intervals](Medium/0435-non-overlapping-intervals/) - Medium
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-- #516 [Longest Palindromic Subsequence](Medium/0516-longest-palindromic-subsequence/) - Medium
-- #647 [Palindromic Substrings](Medium/0647-palindromic-substrings/) - Medium
-- #678 [Valid Parenthesis String](Medium/0678-valid-parenthesis-string/) - Medium
-- #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
-- #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
-- #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
-- #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
 
 ## Linked List (16)
 

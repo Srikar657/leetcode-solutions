@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (113)
+## Array (114)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -107,6 +107,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3075 [Maximize Happiness of Selected Children](Medium/3075-maximize-happiness-of-selected-children/) - Medium
 - #3105 [Longest Strictly Increasing or Strictly Decreasing Subarray](Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3550 [Smallest Index With Digit Sum Equal to Index](Easy/3550-smallest-index-with-digit-sum-equal-to-index/) - Easy
@@ -539,6 +540,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
+## Prefix Sum (12)
+
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
+- #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
+- #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
+- #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
+- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
+- #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
+- #2483 [Minimum Penalty for a Shop](Medium/2483-minimum-penalty-for-a-shop/) - Medium
+- #2485 [Find the Pivot Integer](Easy/2485-find-the-pivot-integer/) - Easy
+- #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Binary Tree (11)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -567,19 +583,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Prefix Sum (11)
+## Sliding Window (11)
 
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
-- #560 [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) - Medium
-- #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
+- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
+- #424 [Longest Repeating Character Replacement](Medium/0424-longest-repeating-character-replacement/) - Medium
+- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
+- #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
 - #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
-- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
-- #2483 [Minimum Penalty for a Shop](Medium/2483-minimum-penalty-for-a-shop/) - Medium
-- #2485 [Find the Pivot Integer](Easy/2485-find-the-pivot-integer/) - Easy
-- #2574 [Left and Right Sum Differences](Easy/2574-left-and-right-sum-differences/) - Easy
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+- #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 
 ## Tree (11)
 
@@ -594,19 +610,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Sliding Window (10)
-
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
-- #424 [Longest Repeating Character Replacement](Medium/0424-longest-repeating-character-replacement/) - Medium
-- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
-- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
-- #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
-- #1658 [Minimum Operations to Reduce X to Zero](Medium/1658-minimum-operations-to-reduce-x-to-zero/) - Medium
-- #1871 [Jump Game VII](Medium/1871-jump-game-vii/) - Medium
-- #2958 [Length of Longest Subarray With at Most K Frequency](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) - Medium
 
 ## Bracket Sequences (8)
 

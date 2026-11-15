@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (115)
+## Array (116)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -119,6 +119,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
+- #3898 [Find the Degree of Each Vertex](Easy/3898-find-the-degree-of-each-vertex/) - Easy
 
 ## String (65)
 
@@ -677,6 +678,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1833 [Maximum Ice Cream Bars](Medium/1833-maximum-ice-cream-bars/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 
+## Matrix (5)
+
+- #48 [Rotate Image](Medium/0048-rotate-image/) - Medium
+- #74 [Search a 2D Matrix](Medium/0074-search-a-2d-matrix/) - Medium
+- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+- #3898 [Find the Degree of Each Vertex](Easy/3898-find-the-degree-of-each-vertex/) - Easy
+
 ## Monotonic Stack (5)
 
 - #316 [Remove Duplicate Letters](Medium/0316-remove-duplicate-letters/) - Medium
@@ -691,13 +700,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #46 [Permutations](Medium/0046-permutations/) - Medium
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
-
-## Matrix (4)
-
-- #48 [Rotate Image](Medium/0048-rotate-image/) - Medium
-- #74 [Search a 2D Matrix](Medium/0074-search-a-2d-matrix/) - Medium
-- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
-- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 
 ## Binary Search Tree (3)
 
@@ -794,6 +796,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Geometry (1)
 
 - #836 [Rectangle Overlap](Easy/0836-rectangle-overlap/) - Easy
+
+## Graph Theory (1)
+
+- #3898 [Find the Degree of Each Vertex](Easy/3898-find-the-degree-of-each-vertex/) - Easy
 
 ## Greatest Common Divisor (1)
 

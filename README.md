@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 127 | 127 |
+| Easy | 128 | 128 |
 | Medium | 108 | 108 |
 | Hard | 3 | 3 |
-| **Total** | **238** | **238** |
+| **Total** | **239** | **239** |
 
-238 problem(s), 238 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-15).
+239 problem(s), 239 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-16).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 220 |
+| Python | 221 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (127)</summary>
+<details><summary><b>Easy</b> (128)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -121,6 +121,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements ](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | Python | [folder](Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Python | [folder](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Python | [folder](Easy/2235-add-two-integers/) |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Python | [folder](Easy/2243-calculate-digit-sum-of-a-string/) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python | [folder](Easy/2278-percentage-of-letter-in-string/) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Python | [folder](Easy/2315-count-asterisks/) |
 | 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | Python | [folder](Easy/2404-most-frequent-even-element/) |

@@ -121,7 +121,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 - #3898 [Find the Degree of Each Vertex](Easy/3898-find-the-degree-of-each-vertex/) - Easy
 
-## String (65)
+## String (66)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -172,6 +172,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2315 [Count Asterisks](Easy/2315-count-asterisks/) - Easy
 - #2483 [Minimum Penalty for a Shop](Medium/2483-minimum-penalty-for-a-shop/) - Medium
@@ -527,7 +528,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
-## Simulation (13)
+## Simulation (14)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
@@ -538,6 +539,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium

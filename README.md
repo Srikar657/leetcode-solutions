@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 128 | 128 |
-| Medium | 108 | 108 |
+| Medium | 109 | 109 |
 | Hard | 3 | 3 |
-| **Total** | **239** | **239** |
+| **Total** | **240** | **240** |
 
-239 problem(s), 239 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-16).
+240 problem(s), 240 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-18).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 221 |
+| Python | 222 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -161,7 +161,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (108)</summary>
+<details><summary><b>Medium</b> (109)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -259,6 +259,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Python | [folder](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | C | [folder](Medium/2483-minimum-penalty-for-a-shop/) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | C | [folder](Medium/2657-find-the-prefix-common-array-of-two-arrays/) |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Python | [folder](Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) |
 | 2957 | [Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | Python | [folder](Medium/2957-remove-adjacent-almost-equal-characters/) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Python | [folder](Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python | [folder](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) |

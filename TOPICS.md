@@ -121,7 +121,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 - #3898 [Find the Degree of Each Vertex](Easy/3898-find-the-degree-of-each-vertex/) - Easy
 
-## String (66)
+## String (67)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -176,6 +176,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2315 [Count Asterisks](Easy/2315-count-asterisks/) - Easy
 - #2483 [Minimum Penalty for a Shop](Medium/2483-minimum-penalty-for-a-shop/) - Medium
+- #2914 [Minimum Number of Changes to Make Binary String Beautiful](Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) - Medium
 - #2957 [Remove Adjacent Almost-Equal Characters](Medium/2957-remove-adjacent-almost-equal-characters/) - Medium
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium

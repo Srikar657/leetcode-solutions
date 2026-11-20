@@ -492,7 +492,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2657 [Find the Prefix Common Array of Two Arrays](Medium/2657-find-the-prefix-common-array-of-two-arrays/) - Medium
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 
-## Linked List (16)
+## Linked List (17)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
@@ -502,6 +502,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
 - #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
@@ -511,13 +512,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
-## Recursion (15)
+## Recursion (16)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
 - #60 [Permutation Sequence](Hard/0060-permutation-sequence/) - Hard
 - #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
 - #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy

@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 128 | 128 |
+| Easy | 129 | 129 |
 | Medium | 109 | 109 |
 | Hard | 3 | 3 |
-| **Total** | **240** | **240** |
+| **Total** | **241** | **241** |
 
-240 problem(s), 240 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-18).
+241 problem(s), 241 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 222 |
+| Python | 223 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (128)</summary>
+<details><summary><b>Easy</b> (129)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -57,6 +57,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Python | [folder](Easy/0160-intersection-of-two-linked-lists/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python | [folder](Easy/0169-majority-element/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Python | [folder](Easy/0191-number-of-1-bits/) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Python | [folder](Easy/0203-remove-linked-list-elements/) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Python | [folder](Easy/0206-reverse-linked-list/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python | [folder](Easy/0217-contains-duplicate/) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Python | [folder](Easy/0219-contains-duplicate-ii/) |

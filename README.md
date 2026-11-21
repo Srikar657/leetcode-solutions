@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 129 | 129 |
+| Easy | 130 | 130 |
 | Medium | 109 | 109 |
 | Hard | 3 | 3 |
-| **Total** | **241** | **241** |
+| **Total** | **242** | **242** |
 
-241 problem(s), 241 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
+242 problem(s), 242 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 223 |
+| Python | 224 |
 | C | 17 |
 | Python3 | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (129)</summary>
+<details><summary><b>Easy</b> (130)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -117,6 +117,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python | [folder](Easy/1929-concatenation-of-array/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Python | [folder](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Python | [folder](Easy/1979-find-greatest-common-divisor-of-array/) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Python | [folder](Easy/2073-time-needed-to-buy-tickets/) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Python | [folder](Easy/2089-find-target-indices-after-sorting-array/) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Python | [folder](Easy/2144-minimum-cost-of-buying-candies-with-discount/) |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements ](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | Python | [folder](Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) |

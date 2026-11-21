@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (116)
+## Array (117)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -88,6 +88,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2091 [Removing Minimum and Maximum From Array](Medium/2091-removing-minimum-and-maximum-from-array/) - Medium
 - #2144 [Minimum Cost of Buying Candies With Discount](Easy/2144-minimum-cost-of-buying-candies-with-discount/) - Easy
@@ -531,7 +532,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
-## Simulation (14)
+## Simulation (15)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
@@ -541,6 +542,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -736,6 +738,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 
+## Queue (3)
+
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
+
 ## Segment Tree (3)
 
 - #406 [Queue Reconstruction by Height](Medium/0406-queue-reconstruction-by-height/) - Medium
@@ -766,11 +774,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-
-## Queue (2)
-
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 
 ## Quickselect (2)
 

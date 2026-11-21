@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (117)
+## Array (118)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -66,6 +66,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #977 [Squares of a Sorted Array](Easy/0977-squares-of-a-sorted-array/) - Easy
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1200 [Minimum Absolute Difference](Easy/1200-minimum-absolute-difference/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
@@ -642,6 +643,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Heap (Priority Queue) (7)
+
+- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
+- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
+- #373 [Find K Pairs with Smallest Sums](Medium/0373-find-k-pairs-with-smallest-sums/) - Medium
+- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
+- #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
+
 ## Depth-First Search (6)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -659,15 +670,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
 - #3751 [Total Waviness of Numbers in Range I](Medium/3751-total-waviness-of-numbers-in-range-i/) - Medium
-
-## Heap (Priority Queue) (6)
-
-- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
-- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
-- #373 [Find K Pairs with Smallest Sums](Medium/0373-find-k-pairs-with-smallest-sums/) - Medium
-- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
-- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
-- #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
 ## Breadth-First Search (5)
 
